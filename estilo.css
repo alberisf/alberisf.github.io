@@ -1,0 +1,16 @@
+#logo {
+    float: left;
+}
+
+#menu {
+    float: right;
+    text-align: center;
+}
+
+#imagem_principal {
+    text-align: center;
+}
+
+body {
+    margin: 25px 220px 75px 220px;
+}
