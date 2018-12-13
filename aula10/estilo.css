@@ -1,0 +1,28 @@
+body {
+    background: #d6d6d6;
+}
+
+.noticia {
+    font-family: "opensans-regular", arial, sans-serif;
+    background-color: #F5F5DC;
+    border: 1px solid block;
+    color: #333;
+    font-size: 16px;
+    margin: 8px;
+    padding: 8px;
+    float: left;
+}
+
+.noticia h1 {
+    color: #c4170c;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    margin: 8px;
+}
+
+.texto {
+    clear: both;
+}
+
+#titulo {
+    text-align: center;
+}

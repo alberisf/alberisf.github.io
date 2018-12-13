@@ -1,16 +1,8 @@
-#logo {
-    float: left;
-}
 
-#menu {
-    float: right;
+.principal {
     text-align: center;
 }
 
-#imagem_principal {
-    text-align: center;
-}
-
-body {
-    margin: 25px 220px 75px 220px;
+.texto-principal p {
+    text-align: left;
 }
