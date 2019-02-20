@@ -1,0 +1,47 @@
+body {margin:0;}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background: #ddd;
+  color: black;
+}
+
+.main {
+  padding: 16px;
+  margin-top: 30px;
+  height: 1500px; /* Used in this example to enable scrolling */
+}
+#items {
+    float: right;
+}
+
+#reduxstocklogofat{
+    font-family:'Bell Gothic W01 Black 691900'!important;
+    font-size: 24px;
+    line-height: 100%;
+    color: red;
+}
+    
+#reduxstocklogoslim{
+font-family:'N Lincoln Gth BT W03 X Light'!important;
+    font-size: 24px;
+    line-height: 100%;
+    color: blue;
+}

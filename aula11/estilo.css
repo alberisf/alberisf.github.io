@@ -1,0 +1,38 @@
+
+#mainmenu {
+    background-color: red;
+    height: 50px;
+    width: 100%;
+}
+
+#header {
+    background-color: blue;
+    height: 200px;
+    width: 100%;
+    float: left;
+}
+
+#content {
+    background-color: green;
+    width: 50%;
+    height: 300px;
+    float: left;
+}
+
+#sidebar {
+    background-color: darkolivegreen;
+    width: 50%;
+    height: 300px;
+    float: left;
+}
+
+#footer {
+    background-color: orange;
+    width: 100%;
+}
+
+p{
+    color: white;
+    line-height: 50px;
+    text-align: center;
+}

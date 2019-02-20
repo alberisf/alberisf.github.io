@@ -1,0 +1,12 @@
+article {
+    display: block;
+}
+
+.titulo {
+    color: #d7d745d3;
+}
+
+.imagem_noticia {
+    float: left;
+    margin: 8px;
+}
