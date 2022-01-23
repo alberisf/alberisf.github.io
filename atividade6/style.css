@@ -1,0 +1,42 @@
+@import url("../global.css");
+
+.btn-link {
+  text-decoration: none;
+  background-color: blue;
+}
+
+h1 {
+  text-align: center;
+}
+
+.compras {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.compras td,
+.compras th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.compras tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.compras tr:hover {
+  background-color: #ddd;
+}
+
+.compras th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04aa6d;
+  color: white;
+}
+
+#total td {
+  font-weight: bold;
+}

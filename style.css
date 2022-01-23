@@ -1,3 +1,5 @@
+@import url("global.css");
+
 body {
   display: grid;
   grid-template-columns: auto 1fr;
@@ -6,29 +8,4 @@ body {
 header {
   text-align: center;
   grid-column: 1 / -1;
-}
-
-.menu-principal {
-  /* border: 1px solid #000; */
-}
-
-.lista-atividades {
-  list-style: none;
-  display: flex;
-  gap: 10px;
-  flex-direction: column;
-  margin: 0px;
-}
-
-.item-atividade a {
-  padding: 8px 16px;
-  background-color: blue;
-  display: inline-block;
-  color: #fff;
-  border-radius: 4px;
-  text-decoration: none;
-}
-
-main {
-  margin: 0px 60px;
 }

@@ -1,0 +1,17 @@
+body {
+  padding: 10px 20px;
+}
+
+.menu {
+  display: flex;
+  list-style: none;
+  gap: 10px;
+}
+
+.item-menu a {
+  background-color: rgb(99, 102, 241);
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  color: white;
+}
