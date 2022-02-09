@@ -1,0 +1,70 @@
+@import url("../global.css");
+
+.menu2 {
+  margin-top: 30px;
+}
+
+#menu-principal {
+  background-color: Maroon;
+  height: 50px;
+}
+
+#header {
+  background-color: blue;
+  height: 200px;
+}
+
+#header2 {
+  background-color: blue;
+  height: 50px;
+}
+
+#content {
+  background-color: MediumSeaGreen;
+  height: 400px;
+  width: 70%;
+  float: left;
+}
+
+#sidebar {
+  background-color: DarkOliveGreen;
+  height: 400px;
+  width: 30%;
+  float: right;
+}
+
+#footer {
+  clear: both;
+  background-color: #8b5a2b;
+  height: 40px;
+}
+
+.texto {
+  color: white;
+  font-weight: bold;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
+
+#left {
+  background-color: MediumSeaGreen;
+  height: 400px;
+  width: 25%;
+  float: left;
+}
+
+#center {
+  background-color: blueviolet;
+  height: 400px;
+  width: 50%;
+  float: left;
+}
+
+#right {
+  background-color: coral;
+  height: 400px;
+  width: 25%;
+  float: left;
+}

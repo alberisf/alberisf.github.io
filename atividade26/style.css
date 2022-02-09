@@ -1,0 +1,16 @@
+.conteudo {
+  box-sizing: border-box;
+}
+
+.linha {
+  box-sizing: border-box;
+}
+
+.coluna {
+  box-sizing: border-box;
+  height: auto;
+}
+
+img {
+  max-width: 100%;
+}

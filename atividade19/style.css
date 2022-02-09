@@ -1,0 +1,57 @@
+@import url("../global.css");
+
+main {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+.div-list {
+  display: grid;
+  grid-template-columns: 150px 150px;
+  margin-right: 40px;
+}
+
+div {
+  height: 150px;
+  width: 150px;
+}
+
+.div1 {
+  background: red;
+  border-radius: 100% 0 0 0;
+}
+
+.div2 {
+  background: green;
+  border-radius: 0 100% 0 0;
+}
+
+.div3 {
+  background: yellow;
+  border-radius: 0 0 0 100%;
+}
+
+.div4 {
+  background: purple;
+  border-radius: 0 0 100% 0;
+}
+
+.div5 {
+  background: red;
+  border-radius: 100% 100% 0 100%;
+}
+
+.div6 {
+  background: green;
+  border-radius: 100% 100% 100% 0;
+}
+
+.div7 {
+  background: yellow;
+  border-radius: 100% 0 100% 100%;
+}
+
+.div8 {
+  background: purple;
+  border-radius: 0 100% 100% 100%;
+}

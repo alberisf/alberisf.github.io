@@ -1,0 +1,16 @@
+@import url("../global.css");
+
+body {
+  background: #d6d6d6;
+}
+
+.imagem {
+  float: left;
+  padding: 5px;
+  background: white;
+  margin: 10px;
+}
+
+.div-texto {
+  clear: both;
+}
